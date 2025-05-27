@@ -1,0 +1,64 @@
+newmtl mockofun-vintage-photo-editor
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.0490909
+Ns 16
+Ks 1 1 1
+map_Kd Untitled/mockofun-vintage-photo-editor_base_color.png
+
+newmtl frame
+illum 7
+Kd 0.906332 0.906332 0.906332
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 1
+Ns 16
+Ks 1 1 1
+
+newmtl frame-darker
+illum 7
+Kd 0.828272 0.828272 0.828272
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.5
+Ns 16
+Ks 1 1 1
+
+newmtl material_0
+illum 7
+Kd 1 1 1
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
