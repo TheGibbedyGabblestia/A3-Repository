@@ -1,6 +1,7 @@
 GitHub Repository link: https://github.com/TheGibbedyGabblestia/A3-Repository
 
 Gabe's Scene Attributions:
+
 Blank canvas model - SM5 by Heledahn (Sketchfab)
 https://sketchfab.com/heledahn
 
