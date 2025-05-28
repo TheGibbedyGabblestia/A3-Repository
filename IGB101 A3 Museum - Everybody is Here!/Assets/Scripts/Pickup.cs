@@ -19,8 +19,10 @@ public class Pickup : MonoBehaviour
     {
         if(otherObject.transform.tag == "Player")
         {
+            Debug.Log("I'm gonna pick up!");
             gameManager.currentPickups += 1;
             Destroy(this.gameObject);
+            Debug.Log("Picked Up!");
         }
     }
 }
