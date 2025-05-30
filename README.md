@@ -47,7 +47,8 @@ https://sketchfab.com/Adriancgmask
 Small Bottle - Shuvalov on Sketchfab
 https://sketchfab.com/shuvalov.di
 
-Nicholas's Scene Attributions 
+Nicholas's Scene Attributions:
+
 Cat Image - Tim Schmidbauer on Upsplash
 https://unsplash.com/photos/a-close-up-of-a-cat-on-a-bed-gz0rGe7mhL8
 
