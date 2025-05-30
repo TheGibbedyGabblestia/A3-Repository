@@ -47,5 +47,10 @@ https://sketchfab.com/Adriancgmask
 Small Bottle - Shuvalov on Sketchfab
 https://sketchfab.com/shuvalov.di
 
+Nicholas's Scene Attributions 
+Cat Image - Tim Schmidbauer on Upsplash
+https://unsplash.com/photos/a-close-up-of-a-cat-on-a-bed-gz0rGe7mhL8
 
+Original music - DIMMYSAD on Pixabay 
+https://pixabay.com/music/drum-n-bass-jungle-waves-drumampbass-electronic-inspiring-promo-345013/
 
