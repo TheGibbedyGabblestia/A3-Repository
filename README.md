@@ -35,3 +35,17 @@ https://www.cinemaexpress.com/english/news/2022/Dec/22/national-treasure-3-with-
 Nicolas Cage National Treasure audio:
 From the 2004 film 'National Treasure'. Obtained at
 https://www.moviesoundclips.net/people-details.php?id=22
+
+Chloe's Scene Attributions:
+
+Photo Frame - Jamie McFarlane on Sketchfab
+https://sketchfab.com/jamiemcfarlane
+
+Spartan Helmet - Adrian on Sketchfab
+https://sketchfab.com/Adriancgmask
+
+Small Bottle - Shuvalov on Sketchfab
+https://sketchfab.com/shuvalov.di
+
+
+
