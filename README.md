@@ -55,3 +55,22 @@ https://unsplash.com/photos/a-close-up-of-a-cat-on-a-bed-gz0rGe7mhL8
 Original music - DIMMYSAD on Pixabay 
 https://pixabay.com/music/drum-n-bass-jungle-waves-drumampbass-electronic-inspiring-promo-345013/
 
+Jordan's scene attributions:
+
+Coloured prototype meshes - Ciathyza on unity asset store 
+https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127?srsltid=AfmBOordEX2oJS9s75jhYpAXlzdZE_uWvX7VjfEV2UVbzPkd0XD5ipO-
+
+Karl weezer bee movie script - Large McNards on Youtube
+https://www.youtube.com/watch?v=twC-qa7xdSA
+
+White Photo Frame - Johana - PS on Sketchfab
+https://sketchfab.com/3d-models/white-photo-frame-2b72fcdffd7c445fa68573b2a2c5b940
+
+Twilight Sparkle (Unicorn) - TwilightTrainBoyLegoZ1 on SKetchfab
+https://sketchfab.com/3d-models/twilight-sparkle-unicorn-c76b3f5aa6f34a05b8d66cb1d0e4db4e
+
+Chud Son - TamersOfficial on youtube 
+https://www.youtube.com/watch?v=hnVxjB0WLfQ&t=206s
+
+Retrowave Skies (LITE) - Suggo Creations on Unity asset store
+https://assetstore.unity.com/packages/vfx/shaders/retrowave-skies-lite-dynamic-synthwave-skybox-asset-pack-282063
