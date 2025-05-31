@@ -1134,7 +1134,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.81044006, y: 11.289413, z: 0.512194}
+  m_Size: {x: 1, y: 11.289413, z: 1}
   m_Center: {x: -0.0000009536743, y: -0.001159668, z: 0}
 --- !u!1 &125477687
 GameObject:
@@ -8277,7 +8277,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 345820591}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 069e8bac5263c304ebb663b2641fc112, type: 3}
   m_Name: 
@@ -9086,7 +9086,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.81044006, y: 11.289413, z: 0.512194}
+  m_Size: {x: 1, y: 11.289413, z: 1}
   m_Center: {x: -0.0000019073486, y: -0.001159668, z: 0}
 --- !u!1001 &359491261
 PrefabInstance:
@@ -13362,7 +13362,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.81044006, y: 11.289413, z: 0.512194}
+  m_Size: {x: 1, y: 11.289413, z: 1}
   m_Center: {x: -0.0000019073486, y: -0.001159668, z: 0}
 --- !u!1 &985422373
 GameObject:
@@ -13625,7 +13625,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1015883131}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 069e8bac5263c304ebb663b2641fc112, type: 3}
   m_Name: 
@@ -15524,7 +15524,7 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: -0.31913304, y: -0.19032516, z: 0.49488991}
@@ -16869,7 +16869,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.81044006, y: 11.289413, z: 0.512194}
+  m_Size: {x: 1, y: 11.289413, z: 1}
   m_Center: {x: -0.0000019073486, y: -0.001159668, z: 0}
 --- !u!1 &1280609221
 GameObject:
